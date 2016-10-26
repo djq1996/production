@@ -1,0 +1,6 @@
+css：		所有CSS文档
+img:		经常使用的图片或者ICON，例如按钮等
+js：		所有JS
+SVG：		SVG文件
+html：		所有页面文件存放	
+upload：	所有可替换的元素，例如音频，视频，图片等
