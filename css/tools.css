@@ -1,0 +1,67 @@
+.clear {
+  *zoom: 1;
+  display: block;
+}
+.clear:after {
+  content: "clear";
+  height: 0;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  clear: both;
+}
+.title {
+  width: 70%;
+  color: #fff;
+  font-size: 48px;
+  text-align: center;
+  padding-bottom: 62.4px;
+  font-weight: 600;
+  margin: 0 auto;
+}
+.title:after {
+  content: " ";
+  display: inline-block;
+  width: 200px;
+  height: 1px;
+  background: #FFFFFF;
+  margin: 0 1%;
+  vertical-align: middle;
+}
+.title:before {
+  content: " ";
+  display: inline-block;
+  width: 200px;
+  height: 1px;
+  background: #FFFFFF;
+  margin: 0 1%;
+  vertical-align: middle;
+}
+.title_1 {
+  width: 70%;
+  color: #333;
+  font-size: 48px;
+  text-align: center;
+  padding-bottom: 62.4px;
+  font-weight: 600;
+  margin: 0 auto;
+}
+.title_1:after {
+  content: " ";
+  display: inline-block;
+  width: 200px;
+  height: 1px;
+  background: #333;
+  margin: 0 1%;
+  vertical-align: middle;
+}
+.title_1:before {
+  content: " ";
+  display: inline-block;
+  width: 200px;
+  height: 1px;
+  background: #333;
+  margin: 0 1%;
+  vertical-align: middle;
+}
+/*# sourceMappingURL=tools.css.map */
